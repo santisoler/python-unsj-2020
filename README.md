@@ -4,6 +4,15 @@
 
 Dictado por [Santiago Soler](https://santisoler.github.io).
 
+**Cuando:** Martes y Jueves 16hs, a partir del 23 de Junio
+
+**Dónde:** Jitsi Meet
+
+**Inscripción:** [Formulario de
+inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true)
+
+**Requisitos**: Computadora con internet y Anaconda instalado.
+
 ## Acerca del curso
 
 El curso tiene como objetivo introducir a las y los participantes al lenguaje
@@ -23,11 +32,15 @@ El curso contará de 4 clases de 2hs horas cada una:
 - Martes 30/06 16hs
 - Jueves 2/07 16hs
 
-
 ## ¿Dónde?
 
 Debido a la situación generada por el COVID-19, el curso se dictará de manera
 virtual a través de la plataforma [Jitsi Meet](https://meet.jit.si/).
+
+## ¿Cómo me inscribo?
+
+Completar el
+[formulario de inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true).
 
 ## Requisitos para participar
 
