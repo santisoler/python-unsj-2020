@@ -18,12 +18,6 @@ diversas librerías científicas del ecosistema del lenguaje Python.
 
 El curso contará de 4 clases de 2hs horas cada una:
 
-|-------------------|-------------------|
-| Martes 23/06 16hs | Jueves 25/06 16hs |
-|-------------------|-------------------|
-| Martes 30/06 16hs | Jueves 2/07 16hs  |
-|-------------------|-------------------|
-
 - Martes 23/06 16hs
 - Jueves 25/06 16hs
 - Martes 30/06 16hs
