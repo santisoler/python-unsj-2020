@@ -11,7 +11,7 @@ Dictado por [Santiago Soler](https://santisoler.github.io).
 **Inscripción:** [Formulario de
 inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true)
 
-**Requisitos**: Computadora con internet y [Anaconda instalado](<#requisitos-para-participar).
+**Requisitos**: Computadora con internet y [Anaconda instalado](#requisitos-para-participar).
 
 ## Acerca del curso
 
