@@ -135,3 +135,15 @@ Monty Python
 * Código abierto: _**libertad**_ para utilizarlo como queremos
 * Múltiples librerías científicas
 * **Comunidad** científica y de desarrolladores
+
+---
+
+<!-- .slide: class="slide-license" -->
+
+<p class="license-icons">
+<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
+</p>
+
+El contenido de esta presentación está disponible bajo
+
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
