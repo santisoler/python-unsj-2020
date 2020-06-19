@@ -11,7 +11,7 @@ Dictado por [Santiago Soler](https://santisoler.github.io).
 **Inscripción:** [Formulario de
 inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true)
 
-**Requisitos**: Computadora con internet y Anaconda instalado.
+**Requisitos**: Computadora con internet y [Anaconda instalado](<#requisitos-para-participar).
 
 ## Acerca del curso
 
@@ -47,7 +47,7 @@ Completar el
 - Computadora personal con conexión a internet.
 - Tener instalada una distribución de Python
   [Anaconda](https://www.anaconda.com/products/individual)
-  ([ver instrucciones]())
+  ([ver instrucciones](#cómo-instalar-anaconda))
 - No es necesario tener cámara y micrófono, aunque sería beneficioso para poder
   intercambiar ideas dentro de Jitsi Meet.
 - No es necesario tener conocimientos de programación, abordaremos los
@@ -56,7 +56,7 @@ Completar el
 ## Cómo instalar Anaconda
 
 [Anaconda](https://www.anaconda.com/products/individual) es una distribución de
-Python orientada especialemente al análisis da datos, que nos permite instalar
+Python orientada especialmente al análisis da datos, que nos permite instalar
 de manera muy sencilla todos los paquetes que vamos a necesitar para el curso.
 Anaconda es multiplataforma, por ende podemos instalarla en cualquier sistema
 operativo. Anaconda se descarga de manera gratuita y todo el software que
