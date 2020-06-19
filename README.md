@@ -57,14 +57,14 @@ Completar el
 ## Cómo instalar Anaconda
 
 [Anaconda](https://www.anaconda.com/products/individual) es una distribución de
-Python orientada especialmente al análisis da datos, que nos permite instalar
+Python orientada especialmente al análisis de datos, que nos permite instalar
 de manera muy sencilla todos los paquetes que vamos a necesitar para el curso.
 Anaconda es multiplataforma, por ende podemos instalarla en cualquier sistema
 operativo. Anaconda se descarga de manera gratuita y todo el software que
 instala es de código abierto.
 
-[Software Carpentry]() nos ofrece instrucciones muy sencillas de cómo instalar
-Anaconda en cualquier sistema operativo:
+[Software Carpentry](https://software-carpentry.org) nos ofrece instrucciones
+muy sencillas de cómo instalar Anaconda en cualquier sistema operativo:
 [Installing Python Using Anaconda](https://swcarpentry.github.io/python-novice-gapminder/setup/).
 El mismo incluye videos instructivos para Windows y Mac OS X.
 
