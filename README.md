@@ -44,7 +44,8 @@ Completar el
 
 ## Requisitos para participar
 
-- Computadora personal con conexión a internet.
+- Computadora personal con conexión a internet y navegador (cualquiera menos
+  Internet Explorer).
 - Tener instalada una distribución de Python
   [Anaconda](https://www.anaconda.com/products/individual)
   ([ver instrucciones](#cómo-instalar-anaconda))
