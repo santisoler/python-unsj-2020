@@ -19,19 +19,11 @@
 
 # ¿Dónde?
 
-## Jitsi Meet
+## [YouTube Live](https://youtube.com/santis19)
 
 ---
 
-# ¿Cómo vamos a usar Jitsi?
-
-* Micrófonos silenciados
-* Cámaras apagadas
-* Abrimos micrófono (y cámara) solo para hablar
-
----
-
-# Interrumpan cuando quieran
+# Comentarios habilitados
 
 ---
 
@@ -78,6 +70,13 @@
 * Manejo y análisis de datos
 * Gráficos
 * Modelado de datos (ej: regresión lineal)
+
+---
+
+# Herramientas y material
+
+- Slides: https://santisoler.github.io/python-unsj-2020
+- Repositorio: https://github.com/santisoler/python-unsj-2020
 
 ---
 
@@ -135,6 +134,62 @@ Monty Python
 * Código abierto: _**libertad**_ para utilizarlo como queremos
 * Múltiples librerías científicas
 * **Comunidad** científica y de desarrolladores
+
+---
+
+<!-- .slide: data-background-color="#EEEEEE" -->
+
+<img src="images/python_ecosystem.png" style="width: 70%;">
+
+---
+
+# ¿Quiénes usan Python en ciencia?
+
+---
+
+## Primera imagen de un agujero negro
+
+<div class="container">
+
+<div class="col-left">
+<img src="images/kathy-bouman.jpg" style="width: 70%;">
+</div>
+
+<div class="col-right">
+<img src="images/black-hole.jpg" style="width: 70%;">
+</div>
+
+</div>
+
+<div class="bottom">
+
+The Event Horizon Telescope Collaboration (2019).
+doi: [10.3847/2041-8213/ab0ec7](https://doi.org/10.3847/2041-8213/ab0ec7)
+<br>
+Katherine Bouman, et al. (2016).
+doi: [10.1109/CVPR.2016.105](https://doi.org/10.1109/CVPR.2016.105)
+
+</div>
+
+---
+
+<img src="images/black-hole-python.jpg">
+
+<div class="bottom">
+
+https://www.blog.pythonlibrary.org/2019/04/11/python-used-to-take-photo-of-black-hole/
+
+</div>
+
+---
+
+# Código que utilizaron
+
+## [github.com/eth-imaging](https://github.com/achael/eht-imaging)
+
+---
+
+# Sobre Anaconda y <br> distribuciones de Python...
 
 ---
 
