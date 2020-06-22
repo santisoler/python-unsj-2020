@@ -78,7 +78,7 @@ La documentación de Anaconda nos da [instrucciones
 detalladas](https://docs.anaconda.com/anaconda/install/) de cómo instalarlo
 en nuestro sistema operativo.
 
-Alternativa,emte [Software Carpentry](https://software-carpentry.org) también
+Alternativamente [Software Carpentry](https://software-carpentry.org) también
 nos ofrece instrucciones muy sencillas de cómo instalar Anaconda en cualquier
 sistema operativo:
 [Installing Python Using Anaconda](https://swcarpentry.github.io/python-novice-gapminder/setup/).
