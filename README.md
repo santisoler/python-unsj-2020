@@ -7,9 +7,20 @@ Dictado por [Santiago Soler](https://santisoler.github.io).
 |             | Info
 |-------------|-------------------------------------------------
 | Cuándo      | Martes y Jueves 16hs, a partir del 23 de Junio
-| Dónde       | Jitsi Meet
+| Dónde       | ~Jitsi Meet~ [YouTube Live](https://youtube.com/santis19)
 | Inscripción | [Formulario de inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true)
 | Requisitos  | [ver requisitos](#requisitos-para-participar)
+
+
+---
+
+:warning: **WARNING** :warning:
+
+Debido a la alta cantidad de participantes, el curso **NO** se realizará
+a través de Jitsi, sino que se transmitirá a través de
+[YouTube Live](https://youtube.com/santis19).
+
+---
 
 
 ## Acerca del curso
@@ -34,7 +45,8 @@ El curso contará de 4 clases de 2hs horas cada una:
 ## ¿Dónde?
 
 Debido a la situación generada por el COVID-19, el curso se dictará de manera
-virtual a través de la plataforma [Jitsi Meet](https://meet.jit.si/).
+virtual a través de ~la plataforma [Jitsi Meet](https://meet.jit.si/)~
+[YouTube Live](https://youtube.com/santis19).
 
 ## ¿Cómo me inscribo?
 
@@ -48,8 +60,8 @@ Completar el
 - Tener instalada una distribución de Python
   [Anaconda](https://www.anaconda.com/products/individual)
   ([ver instrucciones](#cómo-instalar-anaconda))
-- No es necesario tener cámara y micrófono, aunque sería beneficioso para poder
-  intercambiar ideas dentro de Jitsi Meet.
+- ~No es necesario tener cámara y micrófono, aunque sería beneficioso para poder
+  intercambiar ideas dentro de Jitsi Meet.~
 - No es necesario tener conocimientos de programación, abordaremos los
   conceptos básicos de Python en la primera clase.
 
