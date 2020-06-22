@@ -74,8 +74,13 @@ Anaconda es multiplataforma, por ende podemos instalarla en cualquier sistema
 operativo. Anaconda se descarga de manera gratuita y todo el software que
 instala es de código abierto.
 
-[Software Carpentry](https://software-carpentry.org) nos ofrece instrucciones
-muy sencillas de cómo instalar Anaconda en cualquier sistema operativo:
+La documentación de Anaconda nos da [instrucciones
+detalladas](https://docs.anaconda.com/anaconda/install/) de cómo instalarlo
+en nuestro sistema operativo.
+
+Alternativa,emte [Software Carpentry](https://software-carpentry.org) también
+nos ofrece instrucciones muy sencillas de cómo instalar Anaconda en cualquier
+sistema operativo:
 [Installing Python Using Anaconda](https://swcarpentry.github.io/python-novice-gapminder/setup/).
 El mismo incluye videos instructivos para Windows y Mac OS X.
 
