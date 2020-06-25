@@ -6,6 +6,8 @@
 
 *San Juan, Argentina | Junio 2020*
 
+[<img src="images/ideas-logo.png" style="width: 10%">](https://www.facebook.com/ideasespacio/)
+
 ---
 
 # ¿Cuándo?
