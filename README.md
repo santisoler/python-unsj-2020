@@ -3,6 +3,9 @@
 Dictado por [Santiago Soler](https://santisoler.github.io).
 
 > Universidad Nacional de San Juan
+>
+> Organizado por el espacio <img src="assets/ideas-logo.png" width="48"> y en colaboración con Mario Gimenez
+
 
 |             | Info
 |-------------|-------------------------------------------------
@@ -108,9 +111,7 @@ a santiago.r.soler@gmail.com
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
-El contenido de este repositorio se encuentra disponible bajo la licencia [Creative Commons Attribution 4.0 International License][cc-by]
-This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-
+El contenido de este repositorio se encuentra disponible bajo la licencia [Creative Commons Attribution 4.0 International License][cc-by] a excepción de `assets/ideas-logo.png`.
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
