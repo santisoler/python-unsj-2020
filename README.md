@@ -4,7 +4,7 @@ Dictado por [Santiago Soler](https://santisoler.github.io).
 
 > Universidad Nacional de San Juan
 >
-> Organizado por el espacio <img src="assets/ideas-logo.png" width="48"> y en colaboración con Mario Gimenez
+> Organizado por el espacio <a href="https://www.facebook.com/ideasespacio/"><img src="assets/ideas-logo.png" width="48"></a> y en colaboración con Mario Gimenez
 
 
 |             | Info
