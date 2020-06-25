@@ -9,7 +9,7 @@ Dictado por [Santiago Soler](https://santisoler.github.io).
 | Cuándo      | Martes y Jueves 16hs, a partir del 23 de Junio
 | Dónde       | ~Jitsi Meet~ [YouTube Live](https://youtube.com/santis19)
 | Chat        | [Slack](https://python-unsj-2020.slack.com)
-| Inscripción | [Formulario de inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true)
+| Inscripción | [Formulario de inscripción](https://docs.google.com/forms/d/19JA5NxUNN60xlWwQKasoD0ro69U1yFJ3xomW9f4dtuI/viewform?chromeless=1&edit_requested=true) (cerrada)
 | Requisitos  | [ver requisitos](#requisitos-para-participar)
 
 
